@@ -6,3 +6,4 @@ This code boilerplate was developed to build RESTful micro-services for
 online educational project [univeroom.com](http://univeroom.com)
 
 To run in development:gulp dev
+test
